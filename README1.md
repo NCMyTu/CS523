@@ -1,0 +1,2 @@
+1. Vẽ cây quyết định với dataset cho trong file * hw_dataset_1.csv*. Lưu ý PATIENT ID là thuộc tính dạng rời rạc
+2. Vẽ cây quyết định với dataset cho trong file * hw_dataset_2.csv*. Lưu ý Price là thuộc tính dạng liên tục
