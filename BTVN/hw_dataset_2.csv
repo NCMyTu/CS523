@@ -1,0 +1,12 @@
+Type of restaurant,Price,Neighborhood,Restriction,OK?
+Fast food,5,Oakland,Vegetarian,Not OK
+Ethnic,40,Squirrel Hill,Gluten Free,Not OK
+Casual dining,35,Squirrel Hill,None,Not OK
+Casual dining,80,Shadyside,Vegetarian,Not OK
+Casual dining,11,Oakland,Vegetarian,OK
+Fast food,31,Squirrel Hill,None,OK
+Ethnic,10,Squirrel Hill,None,OK
+Casual dining,22,Shadyside,Gluten Free,Not OK
+Fast food,140,Oakland,None,Not OK
+Ethnic,68,Shadyside,Vegetarian,OK
+Casual dining,57,Shadyside,Gluten Free,OK

@@ -1,0 +1,8 @@
+PATIENT ID,CHEST PAIN,GENDER,SMOKES,EXERCISES,HEART ATTACK
+1,yes,male,no,yes,yes
+2,yes,male,yes,no,yes
+3,no,female,yes,no,yes
+4,no,male,no,yes,no
+5,yes,female,yes,yes,yes
+6,no,male,yes,yes,no
+7,no,female,no,yes,no
