@@ -3,5 +3,5 @@
 
 Các thao tác tính toán đã có sẵn trong slide.
 
-Đại diện nhóm nộp file docx/pdf vào 21522740\@gm.uit.edu.vn  
+Đại diện nhóm nộp file docx/pdf vào `21522740@gm.uit.edu.vn`  
 Deadline: 23:59 10/12/2023
