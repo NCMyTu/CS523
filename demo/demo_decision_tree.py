@@ -7,7 +7,7 @@ from sklearn import tree
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, r2_score
 
-# variables for tkinter
+# constants for tkinter
 row = 1
 border_width = 0.5
 width = 17
@@ -162,7 +162,8 @@ def get_train_test_split_ratio():
 def build_classification_tree(X_train, y_train, X_test, y_test):
     clf = DecisionTreeClassifier(max_depth=max_depth,
                                  min_samples_split=min_sample, 
-                                 random_state=2)
+                                 random_state=2,
+                                 criterion="entropy")
     clf.fit(X_train, y_train)
     
     y_pred = clf.predict(X_test)
